@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="48" height="48">
+<text x="50" y="68" font-size="60" text-anchor="middle">👋</text>
+<animateTransform
+attributeName="transform"
+attributeType="XML"
+type="rotate"
+values="0 50 50;25 50 50;0 50 50;-25 50 50;0 50 50"
+dur="1.4s"
+repeatCount="indefinite"/>
+</svg>
