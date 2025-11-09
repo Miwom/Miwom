@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Miwom <img src="wave.svg" width="28px" alt="👋"/>
 
-<!--
-**Miwom/Miwom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ⚡ Code, Chess & Chaos — in equal parts ☕💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+* 🧩 I turn bugs into features (sometimes intentionally)
+* 🐍 Fluent in `Python`, `JavaScript`, and mild sarcasm
+* 🌱 Currently learning: how to center a div (still)
+* 🛠️ Building: small tools, weird ideas & open-source fun
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miwom&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwom&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/miwom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/miwom"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/miwom"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🌀 Animation Zone
+
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="48" height="48">
+  <text x="50" y="68" font-size="60" text-anchor="middle">👋</text>
+  <animateTransform
+    attributeName="transform"
+    attributeType="XML"
+    type="rotate"
+    values="0 50 50;25 50 50;0 50 50;-25 50 50;0 50 50"
+    dur="1.4s"
+    repeatCount="indefinite"/>
+</svg>
+```
+
+---
+
+> 💬 “Commit often, push occasionally, panic always.”
